@@ -1,3 +1,3 @@
-# AcquisitionInnovation
-Modernized data analytics, and advanced technologies for federal procurement
-Code posted in accordance with Federal Open Source Policy (see code.cov).
+Code for naturual language processing on contract documents and other supporting documents in government contract files.
+
+* Code to be posted at a later date.
