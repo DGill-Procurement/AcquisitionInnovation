@@ -7,6 +7,7 @@ The files in this folder contain scripts and programs to perform Natural Languag
 ### Collection of Python functions to extract information from procurememnt documents
 :green_circle:PRP_Python_Extraction_Functions.py
 Python functions to extract data from documents.
+
 :green_circle: NLP_Python_Extractive_Function_example_jupyter_notebook_example_code.ipynb
 Example usage of the above functions, in a Python notebook format.
 
