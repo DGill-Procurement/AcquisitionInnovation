@@ -5,7 +5,7 @@
 ## Author and Data Scientist: Ping Yu 
 ## Project Manager: Robert Carlson
 ## Contract Manager: Dawn Li
-## Revised: 2022-06-20
+## Revised: 2022-06-20 
 
 ## This script converts all PDF, DOC, DOCX, and RTF files in a folder path into Text format.
 ## Conversion of binary filetypes to text is an important preprocessing step before
