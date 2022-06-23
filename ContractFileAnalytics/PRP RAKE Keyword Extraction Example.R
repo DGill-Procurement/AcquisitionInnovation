@@ -2,7 +2,7 @@
 # 2021-08-18
 # Robert Carlson - Data and Analytic Solutions (DAS)
 # IRS OCPO ART - PRP Procurement Research Partnership Contract
-######
+###### 
 
 ## Analysis with Natural Language Processing (NLP) of Procurement Documents
 ## The example tested with randomly selected Statement of Work (SOW) and Performance Work Statement (PWS)
