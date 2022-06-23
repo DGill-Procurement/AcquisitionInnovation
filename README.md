@@ -17,3 +17,4 @@ Foster cultural changes that promote innovation and managed risk taking through 
 Pursuant to Section 5 of Executive Order (EO) 13960, "Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government", federal agencies are required to inventory their Artificial Intelligence (AI) use cases and share their inventories with other government agencies and the public. Include in agency source code inventory (e.g. Code.gov).
 
 
+2022-06-26
